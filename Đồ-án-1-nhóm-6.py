@@ -18,19 +18,6 @@ def tensv(): #hàm nhập tensv
     return 'Họ tên: ' + m #trả giá trị 
 
 
-# In[2]:
-
-
-# while True:
-#     name = input("Hãy Nhập tên: ")
-#     n = name.split(' ')
-#     for i in range(len(n)):
-#         if(not (n[i].isalpha()) or (n[i].isdigit())):
-#             print("hÃY NHẬP Lại")
-#             break
-#     else:
-#         print("Ho ten: ", ' '.join(n))
-#         break
 
 
 # In[5]:
